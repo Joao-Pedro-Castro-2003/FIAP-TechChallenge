@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\FiapCloudGames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEDF6E9-365B-4B0A-90B4-4963DB05C682}|..\\FiapCloudGames.Tests\\FiapCloudGames.Tests.csproj|c:\\githubpessoal\\meus-repositorios\\fiap\\techchallenge\\fiapcloudgames.tests\\jogotests\\jogorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DE0857-BBE8-480E-88BD-B522F3D2E168}|..\\Infrastructure\\Infrastructure.csproj|c:\\githubpessoal\\meus-repositorios\\fiap\\techchallenge\\infrastructure\\repository\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FBB5CF-73CC-4E76-A0BC-47A53B0E1DF2}|FiapCloudGames.csproj|c:\\githubpessoal\\meus-repositorios\\fiap\\techchallenge\\fiapcloudgames\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FBB5CF-73CC-4E76-A0BC-47A53B0E1DF2}|FiapCloudGames.csproj|solutionrelative:controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEDF6E9-365B-4B0A-90B4-4963DB05C682}|..\\FiapCloudGames.Tests\\FiapCloudGames.Tests.csproj|c:\\githubpessoal\\meus-repositorios\\fiap\\techchallenge\\fiapcloudgames.tests\\authtests\\authrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DE0857-BBE8-480E-88BD-B522F3D2E168}|..\\Infrastructure\\Infrastructure.csproj|c:\\githubpessoal\\meus-repositorios\\fiap\\techchallenge\\infrastructure\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A59FA5-8BDF-48E3-82CC-FF484A478E03}|..\\Core\\Core.csproj|c:\\githubpessoal\\meus-repositorios\\fiap\\techchallenge\\core\\repository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FBB5CF-73CC-4E76-A0BC-47A53B0E1DF2}|FiapCloudGames.csproj|c:\\githubpessoal\\meus-repositorios\\fiap\\techchallenge\\fiapcloudgames\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FBB5CF-73CC-4E76-A0BC-47A53B0E1DF2}|FiapCloudGames.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A59FA5-8BDF-48E3-82CC-FF484A478E03}|..\\Core\\Core.csproj|c:\\githubpessoal\\meus-repositorios\\fiap\\techchallenge\\core\\input\\logininput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JogoRepositoryTests.cs",
+              "DocumentMoniker": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\FiapCloudGames.Tests\\JogoTests\\JogoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\FiapCloudGames.Tests\\JogoTests\\JogoRepositoryTests.cs",
+              "ToolTip": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\FiapCloudGames.Tests\\JogoTests\\JogoRepositoryTests.cs",
+              "RelativeToolTip": "..\\FiapCloudGames.Tests\\JogoTests\\JogoRepositoryTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:24:30.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JogoRepository.cs",
+              "DocumentMoniker": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\Infrastructure\\Repository\\JogoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\JogoRepository.cs",
+              "ToolTip": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\Infrastructure\\Repository\\JogoRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\JogoRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:22:06.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JogoController.cs",
+              "DocumentMoniker": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\FiapCloudGames\\Controllers\\JogoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JogoController.cs",
+              "ToolTip": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\FiapCloudGames\\Controllers\\JogoController.cs",
+              "RelativeToolTip": "Controllers\\JogoController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:21:41.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthRepositoryTests.cs",
+              "DocumentMoniker": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\FiapCloudGames.Tests\\AuthTests\\AuthRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\FiapCloudGames.Tests\\AuthTests\\AuthRepositoryTests.cs",
+              "ToolTip": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\FiapCloudGames.Tests\\AuthTests\\AuthRepositoryTests.cs",
+              "RelativeToolTip": "..\\FiapCloudGames.Tests\\AuthTests\\AuthRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwGIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:11:01.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\Core\\Repository\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Repository\\IAuthRepository.cs",
+              "ToolTip": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\Core\\Repository\\IAuthRepository.cs",
+              "RelativeToolTip": "..\\Core\\Repository\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:52:24.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginInput.cs",
+              "DocumentMoniker": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\Core\\Input\\LoginInput.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Input\\LoginInput.cs",
+              "ToolTip": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\Core\\Input\\LoginInput.cs",
+              "RelativeToolTip": "..\\Core\\Input\\LoginInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:51:36.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\FiapCloudGames\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\FiapCloudGames\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:49:50.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\Infrastructure\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\GitHubPessoal\\Meus-Repositorios\\FIAP\\TechChallenge\\Infrastructure\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:50:04.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

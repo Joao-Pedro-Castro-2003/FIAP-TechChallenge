@@ -1,0 +1,6 @@
+@FiapCloudGames_HostAddress = http://localhost:5212
+
+Post {{FiapCloudGames_HostAddress}}/Usuario/
+Accept: application/json
+
+###
