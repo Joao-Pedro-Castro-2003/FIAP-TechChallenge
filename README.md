@@ -36,7 +36,7 @@ dotnet run --project FiapCloudGames
 
 https://localhost:<porta>/swagger
 
-###🔑 Autenticação
+### 🔑 Autenticação
 
 1 - Faça Login em: POST /Auth/Login
 
@@ -46,7 +46,7 @@ https://localhost:<porta>/swagger
 
 4 - Informe: Bearer SEU_TOKEN
 
-###📚 Principais funcionalidades
+### 📚 Principais funcionalidades
 
 Gerenciamento de usuários (Admin)
 
