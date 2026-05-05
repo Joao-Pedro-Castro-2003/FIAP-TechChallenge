@@ -36,17 +36,26 @@ dotnet run --project FiapCloudGames
 
 https://localhost:<porta>/swagger
 
-🔑 Autenticação
+###🔑 Autenticação
 
 1 - Faça Login em: POST /Auth/Login
+
 2 - Copie o token retornado
+
 3 - Clique em Authorize no Swagger
+
 4 - Informe: Bearer SEU_TOKEN
 
-📚 Principais funcionalidades
+###📚 Principais funcionalidades
+
 Gerenciamento de usuários (Admin)
+
 Autenticação via JWT
+
 Cadastro de jogos (Admin)
+
 Criação de promoções (Admin)
+
 Aquisição de jogos pelo usuário
+
 Consulta da biblioteca do usuário
