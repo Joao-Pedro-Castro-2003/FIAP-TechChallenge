@@ -28,7 +28,7 @@ namespace FiapCloudGames.Controllers
                     Preco = jogoInput.Preco
                 };
                 _jogoRepository.Cadastrar(jogo);
-                return Ok();
+                return Ok("Usuário cadastrado com sucesso!");
             }
             catch (Exception ex)
             {
@@ -43,7 +43,7 @@ namespace FiapCloudGames.Controllers
             try
             {
                 _jogoRepository.Deletar(id);
-                return Ok();
+                return Ok("Usuário deletado com sucesso!");
             }
             catch (Exception ex)
             {
